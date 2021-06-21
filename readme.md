@@ -1,5 +1,7 @@
 # 03 Java script: Password Generator (Explanation ReadMe)
 
+This application randomly generates a password for you based on the parameters you set.
+
 Link to Website: https://crowderyan.github.io/Password-Generator/
 
 1.  Password generator coding
@@ -20,3 +22,7 @@ Link to Website: https://crowderyan.github.io/Password-Generator/
 ![generator active](./images/readme/active.png)
 
 ![password output](./images/readme/output.png)
+
+This project uses: prompts/confirms, arrays, conditionals and loops.
+
+If you have any questions:<a href="mailto:rebuiltrival@gmail.com" hspace="20">Email Me</a>
